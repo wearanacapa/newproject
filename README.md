@@ -1,2 +1,2 @@
-newproject
+This is the homepage
 ==========
