@@ -1,2 +1,3 @@
-This is the homepage
+newproject
 ==========
+This is the front page
